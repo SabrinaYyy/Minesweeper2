@@ -1,5 +1,5 @@
 
-# Final Project
+# Final Project of Programming Techniques (Winter 2023)
 
 import pygame
 import time
