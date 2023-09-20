@@ -1,4 +1,4 @@
-# Mines
+# Minesweeper
 
 It's a minesweeper game in Python.
 
